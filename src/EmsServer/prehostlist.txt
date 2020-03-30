@@ -1,0 +1,8 @@
+D:naver.com|T:500|C:5
+D:gmail.com|C:6
+D:daum.net |T:500
+D:hanmail.net|T:100|C:0
+D:hotmail.com|T:1000|C:4
+D:outlook.com|T:500|C:0
+D:yahoo.co.kr|T:500|C:5
+D:yahoo.com|T:500|C:10

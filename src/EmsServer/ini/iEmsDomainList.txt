@@ -1,0 +1,26 @@
+D:naver.com   |T:500|C:1
+D:gmail.com   |T:500|C:1
+D:daum.net    |D:hanmail.net |T:1000|C:1
+D:outlook.com |D:hotmail.com |D:msn.com | T:1000|C:1
+D:yahoo.co.kr |T:500|C:1
+D:yahoo.com   |T:500|C:1
+D:kornet.net  |T:1000|C:1
+D:challian.net|T:1000|C:1
+D:kebi.com    |T:2000|C:1
+D:hanmir.com  |T:2000|C:1
+D:unitel.co.kr|T:1000|C:1
+D:korea.com   |T:1000|C:1
+D:freechal.com|T:2000|C:1
+D:sunstar.co.kr|T:1000|C:
+D:paran.com    |T:1000|C:1
+D:hanafos.com  |T:1000|C:1
+D:netian.com    |T:2000|C:1
+D:samsung.co.kr |T:3000|C:1
+D:gabia.com     |T:500|C:1
+D:rgpkorea.co.kr  |T:1000|C:1
+D:nate.com     |D:empal.com   |D:empas.com |D:lycos.co.kr |D:cyworld.com |T:2500|C:1
+D:163.com         |T:2000|C:1
+D:minigold.co.kr  |T:2000|C:1
+D:bbi.co.kr  |T:2000|C:1
+D:kmail.kimm.re.kr  |T:2000|C:1
+D:126.com  |T:2000|C:1
